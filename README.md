@@ -1,9 +1,9 @@
-Install Python 3 from here (or use brew/apt/pyenv)
+****This is a Flappy Bird clone, one of my first python projects. It was made using python-pygame and basic programming concepts..
+****
+**How to play**
+*Install Python 2.7.X from here
+*Install PyGame 1.9.X from here
+*Clone this repository: git clone https://github.com/PopAdi/python-flappy-bird.git or click Download ZIP in the right panel and extract it.
+*Run python Flappy\ Bird.py from the repo's directory
+*Use Space or left-mouse-button to jump or Esc to exit.
 
-Run make init (this will install pip packages, use virtualenv or something similar if you don't want to install globally)
-
-Run make to run the game. Run DEBUG=True make to see rects and coords
-
-Use ↑ or Space key to play and Esc to close the game.
-
-Optionally run make web to run the game in the browser (pygbag).
